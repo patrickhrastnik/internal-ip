@@ -37,7 +37,8 @@
 		"linux",
 		"openbsd",
 		"sunos",
-		"win32"
+		"win32",
+        "aix"
 	],
 	"dependencies": {
 		"default-gateway": "^2.6.0",
